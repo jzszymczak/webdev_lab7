@@ -7,8 +7,8 @@ td, th {
 }
 
 #planets {
-    width: 500px;
-    height: 500px;
+    width: 85%;
+    height: 80vh;
     margin-left: auto;
     margin-right: auto;
 }
@@ -16,6 +16,8 @@ td, th {
 h1 {
     text-align: center;
     color: white;
+    font-size: 50px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
 }
 
 body {
