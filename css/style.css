@@ -1,5 +1,33 @@
 td, th {
-  border: 1px solid;
+  border: 1px solid white;
+  text-align: center;
+  color: white;
+  font-size: 20px;
+  font-family:'Courier New', Courier, monospace
 }
 
-  
+#planets {
+    width: 500px;
+    height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+body {
+    background-image: url("../images/space_background.jpg");
+}
+
+.pic {
+    width: 100px;
+    height: 100px;
+}
+
+.label {
+    text-align: left;
+    padding: 10px;
+}
